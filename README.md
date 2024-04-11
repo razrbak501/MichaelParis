@@ -1,6 +1,6 @@
 # Michael Paris
 
-I'm an experienced Program Manager with a demonstrated history of working in the retail industry. Strong program and project management professional skilled in Software Development Life Cycle (SDLC), Agile Methodologies, Agile Project Management, Program Management, and Project Management.  I've earned bachelors degrees in Computer Information Systems and Quantitative Analysis and Supply Chain Logistics Management.  I'm currently working on a Masters in Data Science and plan on graduating in March of 2023.
+I'm an experienced Program Manager with a demonstrated history of working in the retail industry. Strong program and project management professional skilled in Software Development Life Cycle (SDLC), Agile Methodologies, Agile Project Management, Program Management, and Project Management.  I've earned bachelors degrees in Computer Information Systems and Quantitative Analysis and Supply Chain Logistics Management as well as a Masters Data Science.
 
 ## Portfolio of Data Science Efforts
 1. **[Weather Application](https://github.com/razrbak501/WeatherApp)**
